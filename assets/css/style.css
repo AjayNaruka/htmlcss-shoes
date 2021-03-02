@@ -35,7 +35,9 @@ nav ul li:hover{
   box-shadow: 2px 2px 5px black;
 }
 
-
+main{
+  width: 100%;
+}
 
 section{
   position: relative;
@@ -57,7 +59,7 @@ section{
   width: 100%;
 }
 .container .text{
-  font-size: 50px;
+  font-size: 4vw;
   font-weight: 900;
 }
 
